@@ -9,4 +9,4 @@ services:
     environment:
       - POSTGRES_PASSWORD=qwerty
       - POSTGRES_USER=user
-      - POSTGRES_DB=app
+      - POSTGRES_DB=app_db
